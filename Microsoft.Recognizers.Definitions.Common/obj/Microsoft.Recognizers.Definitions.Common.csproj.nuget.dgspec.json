@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Recognizers-Text-master\\Recognizers-Text-master\\.NET\\Microsoft.Recognizers.Definitions.Common\\Microsoft.Recognizers.Definitions.Common.csproj": {}
+  },
+  "projects": {
+    "D:\\Recognizers-Text-master\\Recognizers-Text-master\\.NET\\Microsoft.Recognizers.Definitions.Common\\Microsoft.Recognizers.Definitions.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Recognizers-Text-master\\Recognizers-Text-master\\.NET\\Microsoft.Recognizers.Definitions.Common\\Microsoft.Recognizers.Definitions.Common.csproj",
+        "projectName": "Microsoft.Recognizers.Definitions.Common",
+        "projectPath": "D:\\Recognizers-Text-master\\Recognizers-Text-master\\.NET\\Microsoft.Recognizers.Definitions.Common\\Microsoft.Recognizers.Definitions.Common.csproj",
+        "packagesPath": "C:\\Users\\Swati.Karot\\.nuget\\packages\\",
+        "outputPath": "D:\\Recognizers-Text-master\\Recognizers-Text-master\\.NET\\Microsoft.Recognizers.Definitions.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Swati.Karot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0-beta008, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
